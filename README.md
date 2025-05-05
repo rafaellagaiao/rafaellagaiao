@@ -11,6 +11,8 @@ Profissional em desenvolvimento com foco em Python, Excel, Power BI e SQL.
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaellagaiao&repo=pipeline-dados-telegram&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaellagaiao&repo=machine-learning-daily-screen-time&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaellagaiao&repo=credit-eda-sql&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
